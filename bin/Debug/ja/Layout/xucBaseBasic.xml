@@ -1,0 +1,191 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="31">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">80</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Name">colShiftCode</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">180</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Name">colShiftName</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">180</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Name">colBeginTime</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">180</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Name">colEndTime</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIsOvernight</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colBeginTime1</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colBeginTime2</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colEndTime1</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colEndTime2</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colLateMinute</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colEarlyMinute</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIsBreak</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIsBreakOvernight</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colBreakBeginTime</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colBreakEndTime</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colTotalMinute</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colTotalHour</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colHalfWorkMinute</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colWorkMinute</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colWorkDay</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colMethodCheck</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIsBOT</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIsAOT</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colMinimumMinuteBOT</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colMaximumMinuteBOT</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDistanceMinuteBOT</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colMinimumMinuteAOT</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colMaximumMinuteAOT</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDistanceMinuteAOT</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIsNightDutyDay</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="Width">150</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Name">colDescription</property>
+    </property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="ShowDetailButtons">false</property>
+    <property name="ShowBands">false</property>
+    <property name="HeaderFilterButtonShowMode">Button</property>
+    <property name="ColumnAutoWidth">true</property>
+    <property name="ShowAutoFilterRow">true</property>
+  </property>
+  <property name="Bands" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Columns" iskey="true" value="31">
+        <property name="Item1">colShiftCode</property>
+        <property name="Item2">colShiftName</property>
+        <property name="Item3">colBeginTime</property>
+        <property name="Item4">colEndTime</property>
+        <property name="Item5">colIsOvernight</property>
+        <property name="Item6">colBeginTime1</property>
+        <property name="Item7">colBeginTime2</property>
+        <property name="Item8">colEndTime1</property>
+        <property name="Item9">colEndTime2</property>
+        <property name="Item10">colLateMinute</property>
+        <property name="Item11">colEarlyMinute</property>
+        <property name="Item12">colIsBreak</property>
+        <property name="Item13">colIsBreakOvernight</property>
+        <property name="Item14">colBreakBeginTime</property>
+        <property name="Item15">colBreakEndTime</property>
+        <property name="Item16">colTotalMinute</property>
+        <property name="Item17">colTotalHour</property>
+        <property name="Item18">colHalfWorkMinute</property>
+        <property name="Item19">colWorkMinute</property>
+        <property name="Item20">colWorkDay</property>
+        <property name="Item21">colMethodCheck</property>
+        <property name="Item22">colIsBOT</property>
+        <property name="Item23">colIsAOT</property>
+        <property name="Item24">colMinimumMinuteBOT</property>
+        <property name="Item25">colMaximumMinuteBOT</property>
+        <property name="Item26">colDistanceMinuteBOT</property>
+        <property name="Item27">colMinimumMinuteAOT</property>
+        <property name="Item28">colMaximumMinuteAOT</property>
+        <property name="Item29">colDistanceMinuteAOT</property>
+        <property name="Item30">colIsNightDutyDay</property>
+        <property name="Item31">colDescription</property>
+      </property>
+      <property name="Name">gridBand1</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Width">770</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

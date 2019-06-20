@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <MonthDefault>12/12/2014 1:48:05 PM</MonthDefault>
+    <ShowDiagram>True</ShowDiagram>
+    <ShowWorkdesk>True</ShowWorkdesk>
+    <ShowWelcome>False</ShowWelcome>
+    <ShowHelp>False</ShowHelp>
+    <ShowSendMail>True</ShowSendMail>
+    <ShowTimekeeper>True</ShowTimekeeper>
+    <ShowSalary>True</ShowSalary>
+    <Update>1</Update>
+    <Minimized>False</Minimized>
+    <WindowState>Maximized</WindowState>
+    <SizeWidth>1382</SizeWidth>
+    <SizeHeight>744</SizeHeight>
+    <LocationX>-8</LocationX>
+    <LocationY>-8</LocationY>
+  </Table1>
+</NewDataSet>

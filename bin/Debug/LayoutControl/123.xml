@@ -1,0 +1,529 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">gbList</property>
+  <property name="DetailHeight">350</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="Columns" iskey="true" value="49">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="FieldName">BranchName</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">90</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Caption">Chi Nhánh</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBrandName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="FixedWidth">true</property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="FieldName">DepartmentName</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">125</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Caption">Tên phòng ban</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colDepartmentName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="FixedWidth">true</property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="FieldName">GroupName</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">153</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Caption">Tên nhóm</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colGroupName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="FixedWidth">true</property>
+      </property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="FieldName">Image</property>
+      <property name="ColumnEditName" />
+      <property name="Width">50</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Ảnh</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colImage</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="FieldName">EmployeeCode</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">102</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Caption">Mã nhân viên</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colEmployeeCode</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colFirstName</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Width">20</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colLastName</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSex</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colGender</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBirthdayDay</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBirthday</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBirthPlace</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colCellPhone</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colHomePhone</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">12</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colMainAddress</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">13</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colContactAddress</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">14</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colPosition</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">15</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colIDCard</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">16</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colIDCardDate</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">17</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colIDCardPlace</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">18</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colStatus</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">19</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTestFromDate</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">20</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTestToDate</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">21</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBeginDate</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">22</property>
+      <property name="Fixed">None</property>
+      <property name="Name">bandedGridColumn3</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">23</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colEndDate</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">24</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colEmail</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">25</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colNationality</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">26</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colEthnic</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">27</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colReligion</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">28</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colEducation</property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">29</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colLanguage</property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">30</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInformatic</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">31</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colProfessional</property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">32</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colMarriage</property>
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">33</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInsuranceCode</property>
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">34</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInsuranceDate</property>
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">35</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBasicSalary</property>
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">36</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInsuranceSalary</property>
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">37</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colHealth</property>
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">38</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colHeight</property>
+    </property>
+    <property name="Item42" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">39</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colWeight</property>
+    </property>
+    <property name="Item43" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">40</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colContractCode</property>
+    </property>
+    <property name="Item44" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">41</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colContractType</property>
+    </property>
+    <property name="Item45" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">42</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colContractSignDate</property>
+    </property>
+    <property name="Item46" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">43</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colContractFromDate</property>
+    </property>
+    <property name="Item47" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">44</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colContractToDate</property>
+    </property>
+    <property name="Item48" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">45</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colEnrollNumber</property>
+    </property>
+    <property name="Item49" isnull="true" iskey="true">
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">46</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colDescription</property>
+    </property>
+  </property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="BandPanelRowHeight">-1</property>
+  <property name="MinBandPanelRowCount">1</property>
+  <property name="FixedLineWidth">1</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ColumnPanelRowHeight">32</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowAutoFilterRow">true</property>
+  </property>
+  <property name="Bands" iskey="true" value="3">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">gridBand1</property>
+      <property name="Columns" iskey="true" value="49">
+        <property name="Item1">colBrandName</property>
+        <property name="Item2">colDepartmentName</property>
+        <property name="Item3">colImage</property>
+        <property name="Item4">colGroupName</property>
+        <property name="Item5">colEmployeeCode</property>
+        <property name="Item6">colFirstName</property>
+        <property name="Item7">colLastName</property>
+        <property name="Item8">colSex</property>
+        <property name="Item9">colGender</property>
+        <property name="Item10">colBirthdayDay</property>
+        <property name="Item11">colBirthday</property>
+        <property name="Item12">colBirthPlace</property>
+        <property name="Item13">colCellPhone</property>
+        <property name="Item14">colHomePhone</property>
+        <property name="Item15">colMainAddress</property>
+        <property name="Item16">colContactAddress</property>
+        <property name="Item17">colPosition</property>
+        <property name="Item18">colIDCard</property>
+        <property name="Item19">colIDCardDate</property>
+        <property name="Item20">colIDCardPlace</property>
+        <property name="Item21">colStatus</property>
+        <property name="Item22">colTestFromDate</property>
+        <property name="Item23">colTestToDate</property>
+        <property name="Item24">colBeginDate</property>
+        <property name="Item25">bandedGridColumn3</property>
+        <property name="Item26">colEndDate</property>
+        <property name="Item27">colEmail</property>
+        <property name="Item28">colNationality</property>
+        <property name="Item29">colEthnic</property>
+        <property name="Item30">colReligion</property>
+        <property name="Item31">colEducation</property>
+        <property name="Item32">colLanguage</property>
+        <property name="Item33">colInformatic</property>
+        <property name="Item34">colProfessional</property>
+        <property name="Item35">colMarriage</property>
+        <property name="Item36">colInsuranceCode</property>
+        <property name="Item37">colInsuranceDate</property>
+        <property name="Item38">colBasicSalary</property>
+        <property name="Item39">colInsuranceSalary</property>
+        <property name="Item40">colHealth</property>
+        <property name="Item41">colHeight</property>
+        <property name="Item42">colWeight</property>
+        <property name="Item43">colContractCode</property>
+        <property name="Item44">colContractType</property>
+        <property name="Item45">colContractSignDate</property>
+        <property name="Item46">colContractFromDate</property>
+        <property name="Item47">colContractToDate</property>
+        <property name="Item48">colEnrollNumber</property>
+        <property name="Item49">colDescription</property>
+      </property>
+      <property name="Width">1330</property>
+      <property name="Fixed">Left</property>
+      <property name="Name">gridBand1</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">gridBand3</property>
+      <property name="Columns" iskey="true" value="0" />
+      <property name="Width">10</property>
+      <property name="Name">gridBand3</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">gridBand4</property>
+      <property name="Columns" iskey="true" value="0" />
+      <property name="Width">10</property>
+      <property name="Name">gridBand4</property>
+    </property>
+  </property>
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

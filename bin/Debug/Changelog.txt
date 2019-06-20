@@ -1,0 +1,7 @@
+http://www.devcomponents.com/customeronly/releasenotes.asp?p=dnbwf&v=14.1.0.18
+
+DotNetBar for Windows Forms Release Notes
+Version: 14.1.0.18
+
+    Fixed: SuperGrid: Limited grid-level MouseWheel processing when cell edit is in place. 
+

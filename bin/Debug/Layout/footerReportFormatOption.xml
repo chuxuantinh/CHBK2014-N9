@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <SpaceAbove>40</SpaceAbove>
+    <HeightFooter>70</HeightFooter>
+    <IsShowFullName>true</IsShowFullName>
+    <FontPosition>Times New Roman, 11.25pt, style=Bold</FontPosition>
+    <FontFullName>Times New Roman, 11.25pt</FontFullName>
+    <FontRequire>Times New Roman, 9pt, style=Italic</FontRequire>
+  </Table1>
+</NewDataSet>

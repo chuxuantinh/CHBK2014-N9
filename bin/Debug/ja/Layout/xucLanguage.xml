@@ -1,0 +1,55 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowDetailButtons">false</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="ShowAutoFilterRow">true</property>
+    <property name="ColumnAutoWidth">true</property>
+    <property name="ShowBands">false</property>
+    <property name="HeaderFilterButtonShowMode">Button</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="4">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">60</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Name">colLanguageCode</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">180</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Name">colLanguageName</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">150</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Name">colDescription</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">20</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colActive</property>
+    </property>
+  </property>
+  <property name="Bands" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Columns" iskey="true" value="4">
+        <property name="Item1">colLanguageCode</property>
+        <property name="Item2">colLanguageName</property>
+        <property name="Item3">colDescription</property>
+        <property name="Item4">colActive</property>
+      </property>
+      <property name="Width">390</property>
+      <property name="Name">gridBand1</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

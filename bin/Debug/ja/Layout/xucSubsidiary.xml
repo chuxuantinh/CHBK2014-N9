@@ -1,0 +1,147 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowDetailButtons">false</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="ShowAutoFilterRow">true</property>
+    <property name="ShowBands">false</property>
+    <property name="HeaderFilterButtonShowMode">Button</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="18">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">212</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Name">colSubsidiaryCode</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">200</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Name">colSubsidiaryName</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">200</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Name">colAddress</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Name">colPhone</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Name">colFax</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Name">colWebSite</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Name">colEmail</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Name">colTax</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Name">colBankAccount</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Name">colOpenedAt</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Name">colBankAbbreviationName</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">140</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Name">colBankBranch</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colPhoto</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">12</property>
+      <property name="Name">colMinimumSalary</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">13</property>
+      <property name="Name">colPersonName</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">14</property>
+      <property name="Name">colQuantity</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">15</property>
+      <property name="Name">colFactQuantity</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">16</property>
+      <property name="Name">colDescription</property>
+    </property>
+  </property>
+  <property name="Bands" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Columns" iskey="true" value="18">
+        <property name="Item1">colSubsidiaryCode</property>
+        <property name="Item2">colSubsidiaryName</property>
+        <property name="Item3">colAddress</property>
+        <property name="Item4">colPhone</property>
+        <property name="Item5">colFax</property>
+        <property name="Item6">colWebSite</property>
+        <property name="Item7">colEmail</property>
+        <property name="Item8">colTax</property>
+        <property name="Item9">colBankAccount</property>
+        <property name="Item10">colOpenedAt</property>
+        <property name="Item11">colBankAbbreviationName</property>
+        <property name="Item12">colBankBranch</property>
+        <property name="Item13">colPhoto</property>
+        <property name="Item14">colMinimumSalary</property>
+        <property name="Item15">colPersonName</property>
+        <property name="Item16">colQuantity</property>
+        <property name="Item17">colFactQuantity</property>
+        <property name="Item18">colDescription</property>
+      </property>
+      <property name="Width">2192</property>
+      <property name="Name">gridBand1</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

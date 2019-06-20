@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <xfmCandidate>xfmCandidate</xfmCandidate>
+    <xfmEmployee>xfmEmployee</xfmEmployee>
+    <xfmTimekeeping>xfmTimekeeping</xfmTimekeeping>
+    <xfmSalary>xfmSalary</xfmSalary>
+  </Table1>
+</NewDataSet>

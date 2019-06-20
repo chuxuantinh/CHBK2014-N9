@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Prefix>UV</Prefix>
+    <Length>8</Length>
+    <Suffix />
+  </Table1>
+  <Table1>
+    <Prefix>NV</Prefix>
+    <Length>6</Length>
+    <Suffix />
+  </Table1>
+  <Table1>
+    <Prefix>HDLD/</Prefix>
+    <Length>6</Length>
+    <Suffix>/2014</Suffix>
+  </Table1>
+</NewDataSet>

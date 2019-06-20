@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <TimeKeeperTableDefault>0</TimeKeeperTableDefault>
+    <ShowAssignmentDialog>False</ShowAssignmentDialog>
+    <ShowPetitionDialog>False</ShowPetitionDialog>
+    <AutoAssignment>True</AutoAssignment>
+    <AutoPetition>True</AutoPetition>
+    <MondayColor>-31</MondayColor>
+    <TuesdayColor>-2578</TuesdayColor>
+    <WednesdayColor>-31</WednesdayColor>
+    <ThursdayColor>-2578</ThursdayColor>
+    <FridayColor>-31</FridayColor>
+    <SaturdayColor>-2578</SaturdayColor>
+    <SundayColor>-983041</SundayColor>
+    <HolidayColor>-4128832</HolidayColor>
+  </Table1>
+</NewDataSet>

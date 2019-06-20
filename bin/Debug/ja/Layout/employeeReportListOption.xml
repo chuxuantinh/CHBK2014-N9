@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>EmployeeCode</FieldCode>
+    <FieldName>Mã nhân viên</FieldName>
+    <Width>50</Width>
+    <Position>1</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>FirstName</FieldCode>
+    <FieldName>Họ lót</FieldName>
+    <Width>80</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>LastName</FieldCode>
+    <FieldName>Tên</FieldName>
+    <Width>40</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>Sex</FieldCode>
+    <FieldName>Giới tính</FieldName>
+    <Width>40</Width>
+    <Position>1</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>Marriage</FieldCode>
+    <FieldName>Hôn nhân</FieldName>
+    <Width>50</Width>
+    <Position>1</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>Birthday</FieldCode>
+    <FieldName>Ngày sinh</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>BirthPlace</FieldCode>
+    <FieldName>Nơi sinh</FieldName>
+    <Width>90</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>MainAddress</FieldCode>
+    <FieldName>Địa chỉ</FieldName>
+    <Width>100</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>CellPhone</FieldCode>
+    <FieldName>Di động</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>GroupRateCode</FieldCode>
+    <FieldName>Mã đánh giá</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>IDCardDate</FieldCode>
+    <FieldName>Ngày cấp</FieldName>
+    <Width>50</Width>
+    <Position>1</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>IsOffWork</FieldCode>
+    <FieldName>Đã nghỉ việc</FieldName>
+    <Width>50</Width>
+    <Position>1</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>Height</FieldCode>
+    <FieldName>Chiều cao (cm)</FieldName>
+    <Width>50</Width>
+    <Position>1</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>Weight</FieldCode>
+    <FieldName>Cân nặng (kg)</FieldName>
+    <Width>50</Width>
+    <Position>1</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>ReasonLeave</FieldCode>
+    <FieldName>Lý do nghỉ việc</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+</NewDataSet>

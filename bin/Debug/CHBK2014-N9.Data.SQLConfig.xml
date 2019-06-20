@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SERVER>
+    <server>.\PERFECT</server>
+    <auth>0</auth>
+    <user>sa</user>
+    <pass>perfect</pass>
+    <database />
+    <ConnectString>data source=.\PERFECT;integrated security=SSPI;Initial Catalog=HRMExample;</ConnectString>
+  </SERVER>
+</NewDataSet>

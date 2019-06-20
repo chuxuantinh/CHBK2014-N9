@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>SalaryTableListID</FieldCode>
+    <FieldName>Mã bảng lương</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>EmployeeCode</FieldCode>
+    <FieldName>Mã nhân viên</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>MinimumSalary</FieldCode>
+    <FieldName>Lương tối thiểu</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>CoefficientSalary</FieldCode>
+    <FieldName>Hệ số lương</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>BasicSalary</FieldCode>
+    <FieldName>Lương cơ bản</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>InsuranceSalary</FieldCode>
+    <FieldName>LCB đóng BHXH</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>StipulatedTime</FieldCode>
+    <FieldName>Số giờ quy định</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+  <Table1>
+    <Select>true</Select>
+    <FieldCode>WorkHour</FieldCode>
+    <FieldName>Số giờ công</FieldName>
+    <Width>50</Width>
+    <Position>0</Position>
+  </Table1>
+</NewDataSet>

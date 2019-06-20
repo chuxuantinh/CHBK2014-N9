@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <IsShowMessageInOut>True</IsShowMessageInOut>
+    <IsAutomaticJoinDataImport>True</IsAutomaticJoinDataImport>
+  </Table1>
+</NewDataSet>

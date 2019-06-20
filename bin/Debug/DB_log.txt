@@ -1,0 +1,479 @@
+03/11/2015 1:14:20 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+03/11/2015 1:14:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+03/11/2015 1:20:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+03/11/2015 1:21:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+03/11/2015 1:21:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 2:50:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:10:21 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:10:26 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:10:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:13:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:13:03 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:29:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:29:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:35:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 3:35:15 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:02:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:02:19 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:03:22 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:03:30 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:04:15 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:04:59 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:06:17 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:07:12 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:07:50 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:08:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:13:04 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:19:18 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:21:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 4:22:52 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:00:20 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:00:28 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:01:53 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:02:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:02:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:02:38 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:03:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:03:20 PM : Violation of PRIMARY KEY constraint 'PK_CT_TIMEKEEPER_TABLELIST'. Cannot insert duplicate key in object 'dbo.CT_TIMEKEEPER_TABLELIST'. The duplicate key value is (399923a4-b3f5-459d-a1b2-c6b295ae1517).
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.
+The statement has been terminated.
+08/11/2015 5:03:21 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:03:24 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:03:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:03:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:03:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:03:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:03 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:47 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:47 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:04:48 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:08:25 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:10:18 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:10:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:19:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:19:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:19:21 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:20:30 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:20:35 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:23:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:23:40 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:23:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:24:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:25:59 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:26:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:14 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:41 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:42 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:44 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:51 PM : Violation of PRIMARY KEY constraint 'PK_CT_TIMEKEEPER_TABLELIST'. Cannot insert duplicate key in object 'dbo.CT_TIMEKEEPER_TABLELIST'. The duplicate key value is (3520fa99-b927-4f51-afca-6a0b02a955a5).
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.
+The statement has been terminated.
+08/11/2015 5:27:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:57 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:57 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:57 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:58 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:58 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:59 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:27:59 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:00 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:00 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:12 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:28:15 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:29:04 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:29:05 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:29:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:29:14 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:29:42 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:42:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:44:19 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:58:41 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:58:44 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 5:59:17 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 6:05:00 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 6:05:03 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 6:14:50 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 6:14:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:35:23 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:44:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:44:17 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:45:45 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:45:47 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:48:30 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:48:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:50:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:50:50 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:54:25 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 7:54:26 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 8:02:32 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 8:02:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 8:03:04 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 8:39:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 8:39:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:26:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:26:03 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:27:05 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:27:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:28:24 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:28:26 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:29:43 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:29:43 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:34:45 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:34:46 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:39:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:39:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:42:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:42:12 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:44:13 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:44:15 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:46:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:46:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:49:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:49:52 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:54:12 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:54:13 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:55:25 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:55:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:55:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:55:58 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:56:36 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:57:59 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 9:58:00 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 10:12:54 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 10:12:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 10:13:29 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 10:14:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 10:14:35 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 10:16:31 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+08/11/2015 10:16:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 7:59:35 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 7:59:40 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 7:59:49 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 7:59:59 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 8:35:19 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 8:35:24 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 8:35:50 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+09/11/2015 8:53:41 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 9:56:33 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:06:06 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:07:19 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:07:20 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:07:38 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:07:49 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:07:53 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:02 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:02 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:06 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:07 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:15 AM : Violation of PRIMARY KEY constraint 'PK_CT_TIMEKEEPER_TABLELIST'. Cannot insert duplicate key in object 'dbo.CT_TIMEKEEPER_TABLELIST'. The duplicate key value is (29ecd9f9-6af0-45b7-8de7-cb1500306fcc).
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.
+The statement has been terminated.
+15/11/2015 10:15:15 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:17 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:17 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:23 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:23 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:24 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:24 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:24 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:29 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:29 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:29 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:30 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:31 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+15/11/2015 10:15:31 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+17/11/2015 4:25:31 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+17/11/2015 4:25:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 9:55:51 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 9:56:52 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:15:12 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:15:13 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:15:18 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:15:24 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:15:56 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:15:57 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:16:01 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:16:05 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:16:08 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:26:26 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:27 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:29 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:33 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:34 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:34 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:36 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:36 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:43 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:44 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:30:44 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:32:02 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:32:04 AM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:14:25 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:14:32 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:14:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:15:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:15:54 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:16:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:21:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:21:44 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:22:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:22:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:23:14 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:23:14 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:23:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:23:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:25:04 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:25:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:25:17 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:34:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:43:03 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:43:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:43:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:44:46 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:44:48 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:44:49 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:44:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:44:53 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:46:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:46:36 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:46:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:46:39 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:52:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:52:12 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:52:14 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:52:18 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:53:36 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:53:39 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:53:40 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:53:49 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:55:03 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:55:19 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:55:20 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:55:38 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:57:29 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:57:35 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 1:57:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:01:24 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:01:25 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:01:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:04:47 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:04:49 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:04:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:06:52 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:06:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:06:57 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:07:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:07:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:07:01 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:07:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:07:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 2:07:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:19:45 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:19:48 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:19:49 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:19:53 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:18 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:22 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:31 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:31 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:35 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:35 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:35 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:36 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:36 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:38 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:38 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:38 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:39 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:39 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:44 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:52 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:23:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:02 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:04 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:24:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:25:29 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:25:32 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:25:34 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:25:51 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:25:53 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:05 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:05 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:13 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:15 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:15 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:18 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:25 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:30 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:38 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:41 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:42 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:26:45 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:27:21 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:27:25 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:27:27 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:27:31 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:27:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:27:39 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:04 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:05 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:06 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:07 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:08 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:09 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:11 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:14 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:28 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:28 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:30 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:31 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:36 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:36 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:40 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:41 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:28:41 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:29:03 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 4:29:05 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:31:35 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:31:37 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:31:39 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:12 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:13 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:13 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:13 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:15 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:32:17 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:37:48 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:37:52 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:37:54 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:37:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:47 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:49 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:50 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:53 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:54 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:54 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:54 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:55 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:56 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:41:57 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:43:12 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:43:14 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:43:16 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:43:18 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:43:19 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 6:43:21 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:33:17 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:33:22 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:33:23 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:33:33 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:33:53 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:33:59 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+19/11/2015 11:34:10 PM : Could not find stored procedure 'HRM_LOG_Insert'.
+29/11/2015 12:14:49 PM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+29/11/2015 12:14:54 PM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+29/11/2015 12:15:00 PM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+29/11/2015 12:15:08 PM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+29/11/2015 9:07:09 PM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+07/12/2015 10:28:02 PM : Violation of PRIMARY KEY constraint 'PK_CT_SHIFT'. Cannot insert duplicate key in object 'dbo.CT_SHIFT'. The duplicate key value is (CA000001).
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.
+The statement has been terminated.
+07/12/2015 10:47:33 PM : Violation of PRIMARY KEY constraint 'PK_CT_SHIFT'. Cannot insert duplicate key in object 'dbo.CT_SHIFT'. The duplicate key value is (CA000001).
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.
+The statement has been terminated.
+07/12/2015 10:47:42 PM : Violation of PRIMARY KEY constraint 'PK_CT_SHIFT'. Cannot insert duplicate key in object 'dbo.CT_SHIFT'. The duplicate key value is (CA000001).
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.
+The statement has been terminated.
+12/23/2015 10:12:02 PM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+12/23/2015 10:12:07 PM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+1/19/2018 12:06:31 AM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+1/19/2018 12:06:37 AM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+1/19/2018 12:06:41 AM : Violation of PRIMARY KEY constraint 'PK__COMPANY__2D971C4C124C4096'. Cannot insert duplicate key in object 'dbo.COMPANY'. The duplicate key value is (AA).
+The statement has been terminated.
+1/28/2018 11:35:44 PM : Procedure or function 'CT_LOG_Insert' expects parameter '@UserName', which was not supplied.
+23/03/2018 11:06:10 AM : Procedure or function 'CT_LOG_Insert' expects parameter '@UserName', which was not supplied.
+14/05/2018 11:26:01 AM : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+14/05/2018 11:31:18 AM : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+14/05/2018 11:31:43 AM : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+14/05/2018 11:32:35 AM : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+14/05/2018 11:32:38 AM : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+5/18/2018 12:41:09 PM : Procedure or function 'CT_LOG_Insert' expects parameter '@UserName', which was not supplied.
+6/4/2018 10:50:34 AM : Violation of PRIMARY KEY constraint 'PK_CT_TIMEKEEPER_SYMBOL'. Cannot insert duplicate key in object 'dbo.CT_SYMBOL'. The duplicate key value is ().
+The statement has been terminated.
+6/4/2018 10:50:54 AM : Violation of PRIMARY KEY constraint 'PK_CT_TIMEKEEPER_SYMBOL'. Cannot insert duplicate key in object 'dbo.CT_SYMBOL'. The duplicate key value is ().
+The statement has been terminated.
+6/4/2018 10:51:05 AM : Violation of PRIMARY KEY constraint 'PK_CT_SHIFT'. Cannot insert duplicate key in object 'dbo.CT_SHIFT'. The duplicate key value is (CA000001).
+Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 1, current count = 0.
+The statement has been terminated.

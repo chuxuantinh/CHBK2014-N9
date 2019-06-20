@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Position>Người Lập</Position>
+    <FullName>Đào Như Ngọc</FullName>
+    <Require>(ký, ghi rõ họ tên)</Require>
+    <IsTimekeeper>true</IsTimekeeper>
+    <IsSalary>true</IsSalary>
+    <IsOther>true</IsOther>
+  </Table1>
+  <Table1>
+    <Position>Kế Toán</Position>
+    <FullName>Trần Văn Kiệt</FullName>
+    <Require>(ký, ghi rõ họ tên)</Require>
+    <IsTimekeeper>false</IsTimekeeper>
+    <IsSalary>true</IsSalary>
+    <IsOther>false</IsOther>
+  </Table1>
+  <Table1>
+    <Position>PT. Bộ Phận</Position>
+    <FullName>Nguyễn Phát Đạt</FullName>
+    <Require>(ký, ghi rõ họ tên)</Require>
+    <IsTimekeeper>false</IsTimekeeper>
+    <IsSalary>true</IsSalary>
+    <IsOther>false</IsOther>
+  </Table1>
+  <Table1>
+    <Position>PT. Bộ Phận</Position>
+    <FullName>Phạm Văn Diện</FullName>
+    <Require>(ký, ghi rõ họ tên)</Require>
+    <IsTimekeeper>true</IsTimekeeper>
+    <IsSalary>true</IsSalary>
+    <IsOther>false</IsOther>
+  </Table1>
+  <Table1>
+    <Position>Giám Đốc</Position>
+    <FullName>Nguyễn Thị Kiều Oanh</FullName>
+    <Require>(ký, ghi rõ họ tên)</Require>
+    <IsTimekeeper>true</IsTimekeeper>
+    <IsSalary>true</IsSalary>
+    <IsOther>true</IsOther>
+  </Table1>
+</NewDataSet>

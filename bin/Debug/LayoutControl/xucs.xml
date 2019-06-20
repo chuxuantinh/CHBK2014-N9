@@ -1,0 +1,2694 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="ShowAutoFilterRow">true</property>
+  </property>
+  <property name="RowHeight">-1</property>
+  <property name="GroupRowHeight">-1</property>
+  <property name="GroupFormat">{0}: [#image]{1} {2}</property>
+  <property name="ChildGridLevelName" />
+  <property name="VertScrollTipFieldName" />
+  <property name="PreviewFieldName" />
+  <property name="GroupPanelText" />
+  <property name="NewItemRowText" />
+  <property name="LevelIndent">-1</property>
+  <property name="PreviewIndent">-1</property>
+  <property name="PreviewLineCount">-1</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="ScrollStyle">LiveVertScroll, LiveHorzScroll</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="OptionsLayout" isnull="true" iskey="true">
+    <property name="StoreAppearance">true</property>
+    <property name="StoreAllOptions">true</property>
+  </property>
+  <property name="ViewCaptionHeight">-1</property>
+  <property name="ViewCaption" />
+  <property name="BorderStyle">Default</property>
+  <property name="SynchronizeClones">true</property>
+  <property name="DetailTabHeaderLocation">Top</property>
+  <property name="Name">gbList</property>
+  <property name="DetailHeight">350</property>
+  <property name="FocusRectStyle">CellFocus</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="RowSeparatorHeight">0</property>
+  <property name="OptionsNavigation" isnull="true" iskey="true">
+    <property name="UseAdvHorzNavigation">true</property>
+    <property name="UseAdvVertNavigation">true</property>
+    <property name="UseOfficePageNavigation">true</property>
+    <property name="AutoFocusNewRow">false</property>
+    <property name="AutoMoveRowFocus">true</property>
+    <property name="EnterMoveNextColumn">true</property>
+    <property name="UseTabKey">true</property>
+  </property>
+  <property name="FooterPanelHeight">-1</property>
+  <property name="BandPanelRowHeight">-1</property>
+  <property name="OptionsPrint" isnull="true" iskey="true">
+    <property name="PrintPreview">true</property>
+    <property name="ExpandAllDetails">true</property>
+    <property name="AutoWidth">false</property>
+  </property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="HeaderPanel" iskey="true" value="HeaderPanel">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseTextOptions">true</property>
+      </property>
+      <property name="TextOptions" isnull="true" iskey="true">
+        <property name="WordWrap">Wrap</property>
+        <property name="HAlignment">Center</property>
+      </property>
+    </property>
+    <property name="BandPanel" iskey="true" value="BandPanel">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseTextOptions">true</property>
+      </property>
+      <property name="TextOptions" isnull="true" iskey="true">
+        <property name="HAlignment">Center</property>
+      </property>
+    </property>
+    <property name="GroupRow" iskey="true" value="GroupRow">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+    </property>
+  </property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="FocusLeaveOnTab">true</property>
+    <property name="AutoExpandAllGroups">true</property>
+    <property name="AllowIncrementalSearch">true</property>
+    <property name="CopyToClipboardWithColumnHeaders">false</property>
+  </property>
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="MultiSelectMode">RowSelect</property>
+    <property name="ShowCheckBoxSelectorInColumnHeader">Default</property>
+    <property name="ShowCheckBoxSelectorInGroupRow">Default</property>
+    <property name="ShowCheckBoxSelectorChangesSelectionNavigation">Default</property>
+    <property name="ShowCheckBoxSelectorInPrintExport">Default</property>
+    <property name="CheckBoxSelectorColumnWidth">0</property>
+    <property name="ResetSelectionClickOutsideCheckboxSelector">false</property>
+    <property name="InvertSelection">true</property>
+    <property name="MultiSelect">true</property>
+  </property>
+  <property name="OptionsMenu" isnull="true" iskey="true">
+    <property name="EnableColumnMenu">false</property>
+    <property name="EnableGroupPanelMenu">false</property>
+  </property>
+  <property name="MinBandPanelRowCount">1</property>
+  <property name="FixedLineWidth">1</property>
+  <property name="IndicatorWidth">40</property>
+  <property name="ColumnPanelRowHeight">48</property>
+  <property name="Columns" iskey="true" value="78">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="FieldName">EmployeeCode</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">67</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      </property>
+      <property name="VisibleIndex">0</property>
+      <property name="Caption">Mã NV</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colEmployeeCode</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="FieldName">FirstName</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">96</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      </property>
+      <property name="VisibleIndex">1</property>
+      <property name="Caption">Họ lót</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colFirstName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="FieldName">LastName</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="Width">55</property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseFont">true</property>
+        </property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      </property>
+      <property name="VisibleIndex">2</property>
+      <property name="Caption">Tên</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colLastName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowEdit">false</property>
+      </property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="FieldName">SubsidiaryName</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">SubsidiaryName</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSubsidiaryName</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="FieldName">BranchName</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Chi nhánh</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBranchName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="FieldName">DepartmentName</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Phòng ban</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colDepartmentName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="FieldName">GroupName</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Tổ nhóm</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colGroupName</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="FieldName">CoefficientSalary</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">54</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">3</property>
+      <property name="Caption">Hệ số lương</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colCoefficientSalary</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">CoefficientSalary</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="FieldName">BasicSalary</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">76</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">4</property>
+      <property name="Caption">Lương căn bản</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colBasicSalary</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">BasicSalary</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="FieldName">DateSalary</property>
+      <property name="ColumnEditName" />
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Honeydew</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkCyan</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Ngày có hiệu lực</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colDateSalary</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="FieldName">InsuranceSalary</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">5</property>
+      <property name="Caption">LCB đóng BH</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInsuranceSalary</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">InsuranceSalary</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="FieldName">AllowanceInsurance</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">6</property>
+      <property name="Caption">Phụ cấp đóng BH</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAllowanceInsurance</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">AllowanceInsurance</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="FieldName">Allowance</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">64</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">SeaShell</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">7</property>
+      <property name="Caption">Tổng phụ cấp lương</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAllowance</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Allowance</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="FieldName">TotalSalary</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">76</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="BackColor">SeaShell</property>
+        <property name="Font">Tahoma, 8.25pt, style=Italic</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">8</property>
+      <property name="Caption">Tổng lương</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTotalSalary</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TotalSalary</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="FieldName">StipulatedTime</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">51</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">9</property>
+      <property name="Caption">Số giờ quy định</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colStipulatedTime</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">StipulatedTime</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="FieldName">WorkHour</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">46</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">10</property>
+      <property name="Caption">Số giờ công</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colWorkHour</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">WorkHour</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="FieldName">LateEarlyHour</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">58</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">11</property>
+      <property name="Caption">Số giờ đi trể về sớm</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colLateEarlyHour</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">LateEarlyHour</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="FieldName">MinusLateEarly</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">58</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">12</property>
+      <property name="Caption">Trừ tiền đi trể về sớm</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colMinusLateEarly</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">MinusLateEarly</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="FieldName">RealDay</property>
+      <property name="ColumnEditName" />
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">NC thực tế, công tác</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colRealDay</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">RealDay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="FieldName">RegulationDay</property>
+      <property name="ColumnEditName" />
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Nghỉ chế độ</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colRegulationDay</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">RegulationDay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="FieldName">FurloughDay</property>
+      <property name="ColumnEditName" />
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Nghỉ phép năm</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colFurloughDay</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">FurloughDay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="FieldName">CompensationDay</property>
+      <property name="ColumnEditName" />
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Nghỉ bù</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colCompensationDay</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">CompensationDay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="FieldName">AbsentL</property>
+      <property name="ColumnEditName" />
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Nghỉ có lý do</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAbsentL</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">AbsentL</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="FieldName">AbsentWOL</property>
+      <property name="ColumnEditName" />
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Nghỉ không có lý do</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAbsentWOL</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">AbsentWOL</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="FieldName">StipulatedDay</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">Ngày công quy định</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colStipulatedDay</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">StipulatedDay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="FieldName">WorkTotal</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">Tổng công</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colWorkTotal</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">WorkTotal</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="FieldName">MinusMoney</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">71</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">Trừ ngày nghỉ</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colMinusMoney</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">MinusMoney</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="FieldName">SalaryHour</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">13</property>
+      <property name="Caption">Lương giờ</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryHour</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryHour</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="FieldName">Overtime150</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">14</property>
+      <property name="Caption">TC. Ngày thường (h)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOvertime150</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Overtime150</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="FieldName">Overtime200</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">15</property>
+      <property name="Caption">TC. Chủ nhật (h)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOvertime200</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Overtime200</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="FieldName">Overtime300</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">16</property>
+      <property name="Caption">TC. Ngày lễ (h)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOvertime300</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Overtime300</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="FieldName">Overtime195</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">17</property>
+      <property name="Caption">TCĐ. Ngày thường (h)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOvertime195</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Overtime195</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="FieldName">Overtime260</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">18</property>
+      <property name="Caption">TCĐ. Chủ nhật (h)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOvertime260</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Overtime260</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="FieldName">Overtime390</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">19</property>
+      <property name="Caption">TCĐ. Ngày lễ (h)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOvertime390</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Overtime390</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="FieldName">OvertimeTotal1</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">20</property>
+      <property name="Caption">Tổng (h)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colOvertimeTotal1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowMerge">False</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">OvertimeTotal1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat" />
+        </property>
+      </property>
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="FieldName">SalaryOvertime</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">21</property>
+      <property name="Caption">Tiền tăng ca</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryOvertime</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryOvertime</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="FieldName">Assignment</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">22</property>
+      <property name="Caption">Công tác phí</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAssignment</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Assignment</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="FieldName">AssignmentPay</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">23</property>
+      <property name="Caption">Đã thanh toán</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAssignmentPay</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">AssignmentPay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="FieldName">AssignmentDebt</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">24</property>
+      <property name="Caption">Còn lại</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAssignmentDebt</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">AssignmentDebt</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="FieldName">WorkSalary</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">SeaShell</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">25</property>
+      <property name="Caption">Tiền lương</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colWorkSalary</property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">WorkSalary</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="FieldName">SocialInsurance</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">26</property>
+      <property name="Caption">BHXH</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSocialInsurance</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SocialInsurance</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item42" isnull="true" iskey="true">
+      <property name="FieldName">HealthInsurance</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">27</property>
+      <property name="Caption">BHYT</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colHealthInsurance</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">HealthInsurance</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item43" isnull="true" iskey="true">
+      <property name="FieldName">UnemploymentInsurance</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">28</property>
+      <property name="Caption">BHTN</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colUnemploymentInsurance</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">UnemploymentInsurance</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item44" isnull="true" iskey="true">
+      <property name="FieldName">Insurance</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">29</property>
+      <property name="Caption">BHXH, BHYT, BHTN</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInsurance</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Insurance</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item45" isnull="true" iskey="true">
+      <property name="FieldName">SocialInsurance1</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">30</property>
+      <property name="Caption">BHXH</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSocialInsurance1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SocialInsurance1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item46" isnull="true" iskey="true">
+      <property name="FieldName">HealthInsurance1</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">31</property>
+      <property name="Caption">BHYT</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colHealthInsurance1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">HealthInsurance1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item47" isnull="true" iskey="true">
+      <property name="FieldName">UnemploymentInsurance1</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">32</property>
+      <property name="Caption">BHTN</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colUnemploymentInsurance1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">UnemploymentInsurance1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item48" isnull="true" iskey="true">
+      <property name="FieldName">Insurance1</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">MintCream</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">DarkOliveGreen</property>
+      </property>
+      <property name="VisibleIndex">33</property>
+      <property name="Caption">BHXH, BHYT, BHTN</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colInsurance1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Insurance1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item49" isnull="true" iskey="true">
+      <property name="FieldName">Union1</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">34</property>
+      <property name="Caption">Công đoàn</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colUnion1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Union1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item50" isnull="true" iskey="true">
+      <property name="FieldName">SalaryPlusBefore</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">colSalaryPlusBefore</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryPlusBefore</property>
+    </property>
+    <property name="Item51" isnull="true" iskey="true">
+      <property name="FieldName">SalaryMinusBefore</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">colSalaryMinusBefore</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryMinusBefore</property>
+    </property>
+    <property name="Item52" isnull="true" iskey="true">
+      <property name="FieldName">WorkSalary1</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">SeaShell</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">Tổng thu nhập</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colWorkSalary1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">WorkSalary1</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item53" isnull="true" iskey="true">
+      <property name="FieldName">IncomeTax</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">colIncomeTax</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colIncomeTax</property>
+    </property>
+    <property name="Item54" isnull="true" iskey="true">
+      <property name="FieldName">TaxYourSelfMoney</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">35</property>
+      <property name="Caption">Bản thân</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTaxYourSelfMoney</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TaxYourSelfMoney</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item55" isnull="true" iskey="true">
+      <property name="FieldName">NumberDepend</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">66</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">36</property>
+      <property name="Caption">Số người phụ thuộc</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colNumberDepend</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">NumberDepend</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item56" isnull="true" iskey="true">
+      <property name="FieldName">DependMoney</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">77</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">37</property>
+      <property name="Caption">Tiền chi cho số người phụ thuộc</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colDependMoney</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">DependMoney</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item57" isnull="true" iskey="true">
+      <property name="FieldName">TaxOvertime150Money</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">FloralWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">38</property>
+      <property name="Caption">Giảm trừ TC. Ngày thường</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTaxOvertime150Money</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TaxOvertime150Money</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item58" isnull="true" iskey="true">
+      <property name="FieldName">TaxOvertime200Money</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">FloralWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">39</property>
+      <property name="Caption">Giảm trừ TC. Ngày chủ nhật</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTaxOvertime200Money</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TaxOvertime200Money</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item59" isnull="true" iskey="true">
+      <property name="FieldName">TaxOvertime300Money</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">FloralWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">40</property>
+      <property name="Caption">Giảm trừ TC. Ngày lễ</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTaxOvertime300Money</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TaxOvertime300Money</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item60" isnull="true" iskey="true">
+      <property name="FieldName">TaxOvertime195Money</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">FloralWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Giảm trừ TCĐ. Ngày thường</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTaxOvertime195Money</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TaxOvertime195Money</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item61" isnull="true" iskey="true">
+      <property name="FieldName">TaxOvertime260Money</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">FloralWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Giảm trừ TCĐ. Ngày chủ nhật</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTaxOvertime260Money</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TaxOvertime260Money</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item62" isnull="true" iskey="true">
+      <property name="FieldName">TaxOvertime390Money</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">FloralWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Giảm trừ TCĐ. Ngày lễ</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colTaxOvertime390Money</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">TaxOvertime390Money</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item63" isnull="true" iskey="true">
+      <property name="FieldName">IncomeTaxRemain</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">93</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">41</property>
+      <property name="Caption">Số tiền còn lại chịu thuế</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colIncomeTaxRemain</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">IncomeTaxRemain</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item64" isnull="true" iskey="true">
+      <property name="FieldName">IncomeTaxMoney</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">78</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+        <property name="Font">Tahoma, 8.25pt, style=Italic</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">42</property>
+      <property name="Caption">Tiền đóng thuế</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colIncomeTaxMoney</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">IncomeTaxMoney</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item65" isnull="true" iskey="true">
+      <property name="FieldName">RemainSalary</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">80</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">43</property>
+      <property name="Caption">Còn lại sau khi trừ thuế TNCN</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colRemainSalary</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">RemainSalary</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item66" isnull="true" iskey="true">
+      <property name="FieldName">Union</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">77</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">44</property>
+      <property name="Caption">Công đoàn</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colUnion</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Union</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item67" isnull="true" iskey="true">
+      <property name="FieldName">Advance</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">45</property>
+      <property name="Caption">Tạm ứng</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colAdvance</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Advance</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item68" isnull="true" iskey="true">
+      <property name="FieldName">SalaryPlus</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Tổng thu nhập khác (không tính thuế)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryPlus</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryPlus</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item69" isnull="true" iskey="true">
+      <property name="FieldName">SalaryMinus</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Caption">Tổng khấu trừ khác (không tính thuế)</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryMinus</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryMinus</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item70" isnull="true" iskey="true">
+      <property name="FieldName">Salary</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="Width">84</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+          <property name="UseFont">true</property>
+        </property>
+        <property name="BackColor">SeaShell</property>
+        <property name="Font">Tahoma, 8.25pt, style=Bold</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="VisibleIndex">48</property>
+      <property name="Caption">Tổng thực lãnh</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalary</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">Salary</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item71" isnull="true" iskey="true">
+      <property name="FieldName">SalaryPay</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">49</property>
+      <property name="Caption">Đã thanh toán</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryPay</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryPay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item72" isnull="true" iskey="true">
+      <property name="FieldName">SalaryDebt</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">51</property>
+      <property name="Caption">Còn nợ lại</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryDebt</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryDebt</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item73" isnull="true" iskey="true">
+      <property name="FieldName">ClockingError</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">Chấm công sai</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colClockingError</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+    </property>
+    <property name="Item74" isnull="true" iskey="true">
+      <property name="FieldName">ClockingErrorBegin</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">Không chấm vào</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colClockingErrorBegin</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+    </property>
+    <property name="Item75" isnull="true" iskey="true">
+      <property name="FieldName">ClockingErrorEnd</property>
+      <property name="ColumnEditName" />
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">GhostWhite</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="VisibleIndex">100000</property>
+      <property name="Caption">Không chấm ra</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colClockingErrorEnd</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+    </property>
+    <property name="Item76" isnull="true" iskey="true">
+      <property name="FieldName">SalaryPreviousDebit</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">47</property>
+      <property name="Caption">Ghi nợ tháng trước</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryPreviousDebit</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryPreviousDebit</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item77" isnull="true" iskey="true">
+      <property name="FieldName">SalaryPlusPay</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Azure</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="VisibleIndex">46</property>
+      <property name="Caption">Thanh toán trước</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryPlusPay</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryPlusPay</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+    <property name="Item78" isnull="true" iskey="true">
+      <property name="FieldName">SalaryDebit</property>
+      <property name="ColumnEditName">repCalculator</property>
+      <property name="Visible">true</property>
+      <property name="AppearanceCell" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseBackColor">true</property>
+        </property>
+        <property name="BackColor">Ivory</property>
+      </property>
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="VisibleIndex">50</property>
+      <property name="Caption">Ghi nợ tháng này</property>
+      <property name="Fixed">None</property>
+      <property name="Name">colSalaryDebit</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+      </property>
+      <property name="Summary" iskey="true" value="1">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Tag" isnull="true" />
+          <property name="FieldName">SalaryDebit</property>
+          <property name="SummaryType">Sum</property>
+          <property name="DisplayFormat">{0:##,##0}</property>
+        </property>
+      </property>
+    </property>
+  </property>
+  <property name="Bands" iskey="true" value="18">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Thông tin nhân viên</property>
+      <property name="Columns" iskey="true" value="7">
+        <property name="Item1">colEmployeeCode</property>
+        <property name="Item2">colFirstName</property>
+        <property name="Item3">colLastName</property>
+        <property name="Item4">colSubsidiaryName</property>
+        <property name="Item5">colBranchName</property>
+        <property name="Item6">colDepartmentName</property>
+        <property name="Item7">colGroupName</property>
+      </property>
+      <property name="Width">218</property>
+      <property name="Fixed">Left</property>
+      <property name="Name">gridBand2</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Green</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Lương căn bản</property>
+      <property name="Columns" iskey="true" value="3">
+        <property name="Item1">colCoefficientSalary</property>
+        <property name="Item2">colBasicSalary</property>
+        <property name="Item3">colDateSalary</property>
+      </property>
+      <property name="Width">130</property>
+      <property name="Name">gridBand3</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Green</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Lương đóng BHXH</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colInsuranceSalary</property>
+        <property name="Item2">colAllowanceInsurance</property>
+      </property>
+      <property name="Width">150</property>
+      <property name="Name">gridBand12</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Phụ cấp &amp; Tổng lương</property>
+      <property name="Columns" iskey="true" value="2">
+        <property name="Item1">colAllowance</property>
+        <property name="Item2">colTotalSalary</property>
+      </property>
+      <property name="Width">140</property>
+      <property name="Name">bandAllowance</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Giờ làm việc</property>
+      <property name="Columns" iskey="true" value="4">
+        <property name="Item1">colStipulatedTime</property>
+        <property name="Item2">colWorkHour</property>
+        <property name="Item3">colLateEarlyHour</property>
+        <property name="Item4">colMinusLateEarly</property>
+      </property>
+      <property name="Width">213</property>
+      <property name="Name">gridBand5</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Purple</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Ngày làm việc</property>
+      <property name="Visible">false</property>
+      <property name="Columns" iskey="true" value="9">
+        <property name="Item1">colRealDay</property>
+        <property name="Item2">colRegulationDay</property>
+        <property name="Item3">colFurloughDay</property>
+        <property name="Item4">colCompensationDay</property>
+        <property name="Item5">colAbsentL</property>
+        <property name="Item6">colAbsentWOL</property>
+        <property name="Item7">colStipulatedDay</property>
+        <property name="Item8">colWorkTotal</property>
+        <property name="Item9">colMinusMoney</property>
+      </property>
+      <property name="Width">221</property>
+      <property name="Name">gridBand13</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Tăng ca</property>
+      <property name="Columns" iskey="true" value="9">
+        <property name="Item1">colSalaryHour</property>
+        <property name="Item2">colOvertime150</property>
+        <property name="Item3">colOvertime200</property>
+        <property name="Item4">colOvertime300</property>
+        <property name="Item5">colOvertime195</property>
+        <property name="Item6">colOvertime260</property>
+        <property name="Item7">colOvertime390</property>
+        <property name="Item8">colOvertimeTotal1</property>
+        <property name="Item9">colSalaryOvertime</property>
+      </property>
+      <property name="Width">675</property>
+      <property name="Name">bandSalaryOvertime</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Công tác phí</property>
+      <property name="Columns" iskey="true" value="3">
+        <property name="Item1">colAssignment</property>
+        <property name="Item2">colAssignmentPay</property>
+        <property name="Item3">colAssignmentDebt</property>
+      </property>
+      <property name="Width">225</property>
+      <property name="Name">gridBand4</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Tiền lương</property>
+      <property name="Columns" iskey="true" value="1">
+        <property name="Item1">colWorkSalary</property>
+      </property>
+      <property name="Width">75</property>
+      <property name="Name">gridBand6</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Green</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Bảo hiểm do người lao động đóng</property>
+      <property name="Columns" iskey="true" value="4">
+        <property name="Item1">colSocialInsurance</property>
+        <property name="Item2">colHealthInsurance</property>
+        <property name="Item3">colUnemploymentInsurance</property>
+        <property name="Item4">colInsurance</property>
+      </property>
+      <property name="Width">300</property>
+      <property name="Name">gridBand7</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Green</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Bảo hiểm do người sử dụng lao động đóng</property>
+      <property name="Columns" iskey="true" value="5">
+        <property name="Item1">colSocialInsurance1</property>
+        <property name="Item2">colHealthInsurance1</property>
+        <property name="Item3">colUnemploymentInsurance1</property>
+        <property name="Item4">colInsurance1</property>
+        <property name="Item5">colUnion1</property>
+      </property>
+      <property name="Width">375</property>
+      <property name="Name">gridBand8</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Giảm trừ thuế</property>
+      <property name="Columns" iskey="true" value="9">
+        <property name="Item1">colTaxYourSelfMoney</property>
+        <property name="Item2">colNumberDepend</property>
+        <property name="Item3">colDependMoney</property>
+        <property name="Item4">colTaxOvertime150Money</property>
+        <property name="Item5">colTaxOvertime200Money</property>
+        <property name="Item6">colTaxOvertime300Money</property>
+        <property name="Item7">colTaxOvertime195Money</property>
+        <property name="Item8">colTaxOvertime260Money</property>
+        <property name="Item9">colTaxOvertime390Money</property>
+      </property>
+      <property name="Width">443</property>
+      <property name="Name">bandTaxAllowance</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Brown</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Thuế thu nhập cá nhân</property>
+      <property name="Columns" iskey="true" value="3">
+        <property name="Item1">colIncomeTaxRemain</property>
+        <property name="Item2">colIncomeTaxMoney</property>
+        <property name="Item3">colRemainSalary</property>
+      </property>
+      <property name="Width">251</property>
+      <property name="Name">gridBand10</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Blue</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Sau thuế</property>
+      <property name="Columns" iskey="true" value="6">
+        <property name="Item1">colUnion</property>
+        <property name="Item2">colAdvance</property>
+        <property name="Item3">colSalaryPlus</property>
+        <property name="Item4">colSalaryPlusPay</property>
+        <property name="Item5">colSalaryMinus</property>
+        <property name="Item6">colSalaryPreviousDebit</property>
+      </property>
+      <property name="Width">302</property>
+      <property name="Name">gridBand11</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="AppearanceHeader" isnull="true" iskey="true">
+        <property name="Options" isnull="true" iskey="true">
+          <property name="UseForeColor">true</property>
+        </property>
+        <property name="ForeColor">Red</property>
+      </property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">Thực lãnh &amp;&amp; Thanh toán lương</property>
+      <property name="Columns" iskey="true" value="4">
+        <property name="Item1">colSalary</property>
+        <property name="Item2">colSalaryPay</property>
+        <property name="Item3">colSalaryDebit</property>
+        <property name="Item4">colSalaryDebt</property>
+      </property>
+      <property name="Width">309</property>
+      <property name="Name">gridBand1</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">gridBand2</property>
+      <property name="Visible">false</property>
+      <property name="Columns" iskey="true" value="0" />
+      <property name="Name">bandPlusMinusBefore</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">gridBand9</property>
+      <property name="Visible">false</property>
+      <property name="Columns" iskey="true" value="0" />
+      <property name="Name">bandPlusMinusAfter</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Caption">gridBand14</property>
+      <property name="Visible">false</property>
+      <property name="Columns" iskey="true" value="0" />
+      <property name="Name">gridBand14</property>
+    </property>
+  </property>
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="ActiveFilterString" />
+  <property name="GroupSummary" iskey="true" value="0" />
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

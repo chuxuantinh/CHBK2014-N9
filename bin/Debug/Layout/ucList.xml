@@ -1,0 +1,96 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowDetailButtons">false</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="ShowAutoFilterRow">true</property>
+    <property name="ColumnAutoWidth">true</property>
+    <property name="ShowBands">false</property>
+    <property name="HeaderFilterButtonShowMode">Button</property>
+  </property>
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="10">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">90</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colUserID</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">180</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Name">colUserName</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colGroup_ID</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">118</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Name">colRole_Name</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">266</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Name">colPassword</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">118</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Name">colEmail</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">118</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Name">colDescription</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">118</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Name">colPartID</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">118</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Name">colEmployeeCode</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="Width">20</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Name">colActive</property>
+    </property>
+  </property>
+  <property name="Bands" iskey="true" value="1">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Children" iskey="true" value="0" />
+      <property name="Columns" iskey="true" value="10">
+        <property name="Item1">colUserID</property>
+        <property name="Item2">colUserName</property>
+        <property name="Item3">colGroup_ID</property>
+        <property name="Item4">colRole_Name</property>
+        <property name="Item5">colPassword</property>
+        <property name="Item6">colEmail</property>
+        <property name="Item7">colDescription</property>
+        <property name="Item8">colPartID</property>
+        <property name="Item9">colEmployeeCode</property>
+        <property name="Item10">colActive</property>
+      </property>
+      <property name="Width">1056</property>
+      <property name="Name">gridBand1</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="SortInfo">~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxNS4xLCBWZXJzaW9uPTE1LjEuNi4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADhEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvQ29sbGVjdGlvbgQAAAAKZ3JvdXBDb3VudAVjbG9uZQ9jbG9uZUdyb3VwQ291bnQTQ29sbGVjdGlvbkJhc2UrbGlzdAADAAMIsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjE1LjEsIFZlcnNpb249MTUuMS42LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dCBxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AgAAAAAAAAAJAwAAAAAAAAAJBAAAAAQDAAAAsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjE1LjEsIFZlcnNpb249MTUuMS42LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAwRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mb1tdAgAAAAgICQUAAAAAAAAAAAAAAAQEAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QDAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgUAAAgICQYAAAABAAAAAgAAAAcFAAAAAAEAAAAAAAAABC5EZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvAgAAABAGAAAABAAAAAkHAAAADQMMCAAAABlEZXZFeHByZXNzLlh0cmFHcmlkLnYxNS4xBQcAAAAuRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mbwIAAAAJU29ydE9yZGVyCkNvbHVtbk5hbWUAAQgIAAAAAQAAAAYJAAAAC2NvbFBhc3N3b3JkCw==</property>
+  <property name="GroupSummarySortInfoState" />
+  <property name="FindFilterText" />
+  <property name="FindPanelVisible">false</property>
+</XtraSerializer>

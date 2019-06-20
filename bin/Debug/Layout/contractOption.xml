@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <Signer>TS ABC</Signer>
+    <SignerNationality>Việt Nam</SignerNationality>
+    <SignerPosition>Giám Đốc</SignerPosition>
+    <FilePath0 />
+    <FilePath1 />
+    <FilePath2 />
+    <FilePath3 />
+    <NumberDayWarning>30</NumberDayWarning>
+  </Table1>
+</NewDataSet>
